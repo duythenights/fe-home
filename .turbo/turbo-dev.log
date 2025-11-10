@@ -1,0 +1,19 @@
+[?25l[2J[m[H]0;C:\Windows\system32\cmd.exe [?25h[?25l
+> web@1.0.0 dev C:\Users\Admim\Desktop\personal\frontend-enjoyer-space\apps\web
+> next dev --port 3000[6;1H[?25h]0;next-server (v16.0.0)[?25l   [38;2;173;127;168m[1m▲ Next.js 16.0.0[m (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.12.85:3000
+   - Environments: .env[11;1H [32m[1m✓[m Starting...
+[?25h [32m[1m✓[m Ready in 1310ms
+(node:29616) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+ [37m[1m○[m Compiling / ...
+ GET / [32m200 [min 5.6s[2m (compile: 5.2s, render: 431ms)
+[22m GET / [32m200 [min 52ms[2m (compile: 4ms, render: 48ms)
+[22m GET / [32m200 [min 40ms[2m (compile: 3ms, render: 37ms)
+[22m GET / [32m200 [min 46ms[2m (compile: 3ms, render: 43ms)
+[22m GET / [32m200 [min 57ms[2m (compile: 5ms, render: 52ms)
+[22m GET / [32m200 [min 47ms[2m (compile: 3ms, render: 44ms)
+[22m GET / [32m200 [min 45ms[2m (compile: 3ms, render: 43ms)
+[22m GET / [32m200 [min 45ms[2m (compile: 4ms, render: 40ms)
+[22m
