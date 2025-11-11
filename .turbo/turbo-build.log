@@ -1,0 +1,11 @@
+[?25l[2J[m[2;1H> web@1.0.0 build C:\Users\Admim\Desktop\personal\frontend-enjoyer-space\apps\web
+> next build[6;1H]0;C:\Windows\system32\cmd.exe[?25h[?25l   [38;2;173;127;168m[1m▲ Next.js 16.0.0[m (Turbopack)
+   - Environments: .env[9;1H[?25h [37m[1m [m Creating an optimized production build ...
+ [32m[1m✓[m Compiled successfully in 4.2s
+ [37m[1m [m Skipping validation of types
+ [37m[1m [m Collecting page data  [36m.[?25l[m [37m[1m [m Collecting page data  [36m..[K[47C[m [37m[1m [m Collecting page data  [36m...[K[46C[m [32m[1m✓[m Collecting page data in 613.0ms[K
+[?25h [37m[1m [m Generating static pages (0/4)  [36m[    ][?25l[m [37m[1m [m Generating static pages (0/4)  [36m[=   ][K[34C[m [37m[1m [m Generating static pages (0/4)  [36m[==  ][K[34C[m [37m[1m [m Generating static pages (0/4)  [36m[=== ][K[34C[m [32m[1m✓[m Generating static pages (4/4) in 770.3ms[K
+[?25h [37m[1m [m Finalizing page optimization  [36m.[?25l[m [32m[1m✓[m Finalizing page optimization in 10.9ms[K[4m[16;1HRoute (app)[24m
+┌ ○ /
+└ ○ /_not-found[21;1H○  (Static)  prerendered as static content[?25h
+
